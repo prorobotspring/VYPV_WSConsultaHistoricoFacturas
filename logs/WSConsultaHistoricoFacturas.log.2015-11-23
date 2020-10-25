@@ -1,0 +1,16 @@
+[2015nov23 16:41:44,736][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-024681012]
+[2015nov23 16:41:44,797][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344817]
+[2015nov23 16:41:44,893][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015nov23 16:41:48,002][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015nov23 16:41:48,049][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2015nov23 17:06:15,389][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-024681012]
+[2015nov23 17:06:15,436][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344817]
+[2015nov23 17:06:15,534][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015nov23 17:06:18,707][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015nov23 17:06:18,754][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]

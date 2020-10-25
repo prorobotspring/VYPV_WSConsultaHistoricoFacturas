@@ -1,0 +1,7 @@
+[2017mar20 09:42:18,216][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:SADMIN
+Numero de documento de identificacion:J-14197879]
+[2017mar20 09:42:19,018][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2017mar20 09:42:20,032][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:1]
+[2017mar20 09:42:20,107][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:156][No existe el cliente solicitado en Kenan]

@@ -1,0 +1,23 @@
+[2015oct08 15:47:32,963][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:SADMIN
+Numero de documento de identificacion:J-024681012]
+[2015oct08 15:47:33,023][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344817]
+[2015oct08 15:48:19,515][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015oct08 15:48:22,586][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015oct08 15:48:22,621][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2015oct08 16:17:24,653][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:SADMIN
+Numero de documento de identificacion:J-075087283]
+[2015oct08 16:17:24,696][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015oct08 16:17:24,734][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015oct08 16:17:30,338][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015oct08 16:17:30,373][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015oct08 16:17:30,407][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015oct08 16:17:30,441][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015oct08 16:17:30,476][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015oct08 16:17:30,510][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015oct08 16:17:30,545][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015oct08 16:17:31,332][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015oct08 16:17:31,369][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 6716 milisegundos]

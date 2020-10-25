@@ -1,0 +1,88 @@
+[2014dic08 10:35:17,782][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 10:35:17,786][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 10:35:17,788][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 10:35:21,060][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 10:35:21,062][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 12:09:48,613][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 12:09:48,615][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 12:09:48,617][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 12:09:51,857][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 12:09:51,859][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 12:57:13,413][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 12:57:13,415][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 12:57:13,417][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 12:57:16,657][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 12:57:16,659][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 13:07:47,121][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 13:07:47,123][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 13:07:47,126][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 13:07:50,364][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 13:07:50,366][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 13:28:20,773][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 13:28:20,775][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 13:28:20,777][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 13:28:24,042][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 13:28:24,044][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 13:53:01,023][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 13:53:01,025][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 13:53:01,028][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 13:53:04,260][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 13:53:04,262][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 14:10:06,847][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 14:10:06,849][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 14:10:06,851][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 14:10:10,059][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 14:10:10,062][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 14:35:06,442][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 14:35:06,444][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 14:35:06,446][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 14:35:09,654][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 14:35:09,656][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 15:52:42,113][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 15:52:42,115][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 15:52:42,118][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 15:52:45,157][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 15:52:45,159][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 16:04:23,501][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 16:04:23,505][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 16:04:23,508][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 16:04:26,549][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 16:04:26,551][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]
+[2014dic08 16:54:13,714][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-5763370]
+[2014dic08 16:54:13,716][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12344719]
+[2014dic08 16:54:13,718][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2014dic08 16:54:16,731][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2014dic08 16:54:16,733][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:176][Cliente no posee facturas vencidas en kenan]

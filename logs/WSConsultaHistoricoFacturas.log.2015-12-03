@@ -1,0 +1,120 @@
+[2015dic03 08:18:47,287][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 08:18:47,405][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 08:18:47,510][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 08:18:50,372][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 08:18:50,422][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 08:18:50,471][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 08:18:50,521][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 08:18:50,571][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 08:18:50,621][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 08:18:50,671][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 08:18:51,401][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 08:18:51,453][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4166 milisegundos]
+[2015dic03 08:21:35,984][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 08:21:36,034][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 08:21:36,087][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 08:21:38,835][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 08:21:38,885][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 08:21:38,935][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 08:21:38,985][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 08:21:39,035][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 08:21:39,085][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 08:21:39,135][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 08:21:39,861][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 08:21:39,913][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 3929 milisegundos]
+[2015dic03 10:39:10,694][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 10:39:10,749][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 10:39:10,862][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 10:39:13,643][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 10:39:13,693][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 10:39:13,743][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 10:39:13,793][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 10:39:13,843][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 10:39:13,894][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 10:39:13,944][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 10:39:14,669][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 10:39:14,725][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4031 milisegundos]
+[2015dic03 10:43:00,152][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 10:43:00,202][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 10:43:00,254][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 10:43:03,017][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 10:43:03,067][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 10:43:03,117][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 10:43:03,167][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 10:43:03,216][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 10:43:03,266][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 10:43:03,316][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 10:43:04,048][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 10:43:04,100][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 3948 milisegundos]
+[2015dic03 11:45:21,312][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 11:45:21,382][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 11:45:21,485][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 11:45:24,243][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 11:45:24,293][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 11:45:24,343][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 11:45:24,393][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 11:45:24,443][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 11:45:24,493][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 11:45:24,543][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 11:45:25,279][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 11:45:25,331][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4019 milisegundos]
+[2015dic03 15:22:25,935][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 15:22:26,014][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 15:22:26,067][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 15:22:29,055][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 15:22:29,105][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 15:22:29,155][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 15:22:29,205][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 15:22:29,255][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 15:22:29,305][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 15:22:29,355][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 15:22:30,091][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 15:22:30,143][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4208 milisegundos]
+[2015dic03 16:44:09,094][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 16:44:09,154][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 16:44:09,306][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 16:44:12,034][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 16:44:12,084][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 16:44:12,134][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 16:44:12,184][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 16:44:12,234][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 16:44:12,284][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 16:44:12,334][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 16:44:13,047][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 16:44:13,100][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4006 milisegundos]
+[2015dic03 16:53:47,824][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:EJEACT1
+Numero de documento de identificacion:J-075087283]
+[2015dic03 16:53:47,902][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:122][numero de cuenta:12320945]
+[2015dic03 16:53:48,003][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2015dic03 16:53:50,749][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:0]
+[2015dic03 16:53:50,800][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:180][Cliente tiene facturas vencidas en kenan]
+[2015dic03 16:53:50,849][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:184][Cantidad de facturas vencidas de cliente:1]
+[2015dic03 16:53:50,899][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:188][Cantidad de facturas vencidas de cuenta:1]
+[2015dic03 16:53:50,949][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:192][Saldo deudor de cliente:1553.38]
+[2015dic03 16:53:50,999][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:196][Saldo deudor de cuenta:1553.38]
+[2015dic03 16:53:51,049][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:200][Antiguedad maxima:30.0]
+[2015dic03 16:53:51,764][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:210][Cantidad de facturas:1]
+[2015dic03 16:53:51,843][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:231][Finalizando WSConsultaHistoricoFacturas, proceso realizado en 4019 milisegundos]

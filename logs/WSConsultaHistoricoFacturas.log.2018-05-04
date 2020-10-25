@@ -1,0 +1,16 @@
+[2018may04 14:31:11,115][INFO ][][configurarLogger BSSIntLogger.java:67][APLICACION: VYPV_WSConsultaHistoricoFacturas - VERSION: 0.1]
+[2018may04 14:31:11,140][INFO ][][configurarLogger BSSIntLogger.java:69][DESCRIPCION: Web Service de Morosidad - Consulta Historico FacturasFunciona en Web Logic 8.1 dentro del .ear]
+[2018may04 14:31:11,213][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:SADMIN
+Numero de documento de identificacion:J-015615691]
+[2018may04 14:31:11,248][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2018may04 14:31:12,109][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:1]
+[2018may04 14:31:12,125][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:156][No existe el cliente solicitado en Kenan]
+[2018may04 14:46:33,103][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:110][Iniciando invocacion a WSConsultaHistoricoFacturas
+Channel:SIEBEL8
+User:SADMIN
+Numero de documento de identificacion:J-015615691]
+[2018may04 14:46:33,121][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:136][Conexion con la base de datos exitosa]
+[2018may04 14:46:33,774][DEBUG][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:145][Codigo de retorno de SPHistoricoFacturas:1]
+[2018may04 14:46:33,790][INFO ][][consultarHistoricoFacturas ConsultaHistoricoFacturas.java:156][No existe el cliente solicitado en Kenan]

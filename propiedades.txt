@@ -1,0 +1,3 @@
+datasource=ds/VYPV_KENANFX_QA
+codigoContrato=BCRM-00082
+spname=VYPV_KENANFX.SP_ConsultarHistoricoFacturas
